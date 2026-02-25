@@ -1,4 +1,3 @@
-[
 {
   "Author": "Twinki Toes",
   "Name": "Plugin List",
@@ -21,10 +20,5 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Side Bar for all plugins/custom commands",
-  "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
-  "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
-  "ChangeLog":""
+  "AcceptsFeedback": true
 }
-]
