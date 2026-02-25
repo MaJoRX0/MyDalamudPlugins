@@ -2,7 +2,7 @@
   "Author": "Twinki Toes",
   "Name": "Plugin List",
   "InternalName": "PluginList",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.1.0",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -20,6 +20,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Side Bar for all plugins/custom commands",
-  "Changelog": "Added ability to run macros, and multiple lines. Being able to move commands to the main list",
+  "Changelog": "Better way to add macros",
   "AcceptsFeedback": true
 }
