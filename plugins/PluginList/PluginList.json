@@ -6,22 +6,20 @@
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
-    "Plugins",
+    "pluginlist",
     "list",
     "bar",
-    "sidebar",
     "hotbar",
+    "toolbar",
+    "plugin",
     "goats"
   ],
-  "CategoryTags": [
-    "UI",
-    "Other"
-  ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Side Bar for all plugins/custom commands",
+  "Changelog": "",
   "AcceptsFeedback": true
 }
