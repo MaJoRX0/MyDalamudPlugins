@@ -3,7 +3,7 @@
   "Author": "Twinki Toes",
   "Name": "Plugin List",
   "InternalName": "PluginList",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -26,6 +26,6 @@
   "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
   "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
   "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
-  "ChangeLog":""
+  "ChangeLog":"Added ability to run macros, and multiple lines. Being able to move commands to the main list"
 }
 ]
