@@ -15,6 +15,13 @@
     "plugin",
     "goats"
   ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Side Bar for all plugins/custom commands",
+  "AcceptsFeedback": true,
   "IsHide": false,
   "IsTestingExclusive": false,
   "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
