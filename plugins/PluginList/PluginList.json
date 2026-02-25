@@ -6,15 +6,18 @@
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
-    "pluginlist",
+    "Plugins",
     "list",
     "bar",
+    "sidebar",
     "hotbar",
-    "toolbar",
-    "plugin",
     "goats"
   ],
-  "DalamudApiLevel": 14,
+  "CategoryTags": [
+    "UI",
+    "Other"
+  ],
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
