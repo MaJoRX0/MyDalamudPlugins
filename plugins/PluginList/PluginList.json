@@ -2,7 +2,7 @@
   "Author": "Twinki Toes",
   "Name": "Plugin List",
   "InternalName": "PluginList",
-  "AssemblyVersion": "1.0.3.0",
+  "AssemblyVersion": "1.0.3.1",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -20,6 +20,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Side Bar for all plugins/custom commands",
-  "Changelog": "Ability to change items' colors'",
+  "Changelog": "Fixed coloring in unpinned list'",
   "AcceptsFeedback": true
 }
