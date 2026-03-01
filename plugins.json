@@ -3,7 +3,7 @@
   "Author": "Twinki Toes",
   "Name": "Plugin List",
   "InternalName": "PluginList",
-  "AssemblyVersion": "1.0.3.1",
+  "AssemblyVersion": "1.0.3.2",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -26,6 +26,6 @@
   "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
   "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
   "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
-  "ChangeLog":"Fixed coloring in unpinned list'"
+  "ChangeLog":"Fixed drag and drop"
 }
 ]
