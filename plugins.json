@@ -1,4 +1,5 @@
-{
+[
+  {
   "Author": "Twinki Toes",
   "Name": "Plugin List",
   "InternalName": "PluginList",
@@ -26,4 +27,6 @@
   "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
   "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
   "ChangeLog":"Fixed a minor bug"
-}
+  }
+
+]
