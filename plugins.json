@@ -28,15 +28,17 @@
   "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
   "ChangeLog":"Fixed a minor bug"
   },
+
+  
   {
   "Author": "Twinki Toes",
-  "Name": "BGVCommands",
-  "InternalName": "BGVCommands",
+  "Name": "BGMCommands",
+  "InternalName": "BGMCommands",
   "AssemblyVersion": "1.0.0.0",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
-    "BGVCommands",
+    "BGMCommands",
     "volume",
     "sound",
     "background",
@@ -52,9 +54,9 @@
   "AcceptsFeedback": true,
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/BGVCommands/latest.zip",
-  "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/BGVCommands/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/BGVCommands/latest.zip",
+  "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/BGMCommands/latest.zip",
+  "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/BGMCommands/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/BGMCommands/latest.zip",
   "ChangeLog":""
   }
 

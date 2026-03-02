@@ -1,13 +1,17 @@
 {
   "Author": "Twinki Toes",
-  "Name": "BGVCommands",
-  "InternalName": "BGVCommands",
+  "Name": "BGMCommands",
+  "InternalName": "BGMCommands",
   "AssemblyVersion": "1.0.0.0",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
+    "BGMCommands",
+    "volume",
+    "sound",
+    "background",
+    "bgm",
+    "music",
     "goats"
   ],
   "DalamudApiLevel": 14,
@@ -15,6 +19,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "adding commands for background volume",
+  "Punchline": "Anything my goodgirl asks shall recieve <3",
+  "Changelog": "",
   "AcceptsFeedback": true
 }
