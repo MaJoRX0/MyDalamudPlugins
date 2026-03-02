@@ -1,0 +1,20 @@
+{
+  "Author": "Twinki Toes",
+  "Name": "BGVCommands",
+  "InternalName": "BGVCommands",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "adding commands for background volume",
+  "AcceptsFeedback": true
+}
