@@ -2,7 +2,7 @@
   "Author": "Twinki Toes",
   "Name": "Plugin List",
   "InternalName": "PluginList",
-  "AssemblyVersion": "1.0.4.1",
+  "AssemblyVersion": "1.0.5.0",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -14,12 +14,12 @@
     "plugin",
     "goats"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Side Bar for all plugins/custom commands",
-  "Changelog": "Fixed a minor bug",
+  "Changelog": "Updated for Dalamud API 15.",
   "AcceptsFeedback": true
 }
