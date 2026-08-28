@@ -1,0 +1,22 @@
+{
+  "Author": "c9o",
+  "Name": "VulcanToArtisan",
+  "InternalName": "VulcanToArtisan",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Test clipboard bridge for converting GatherBuddy Reborn Vulcan crafting-list exports into Artisan-compatible crafting-list JSON.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "crafting",
+    "Vulcan",
+    "Artisan",
+    "clipboard"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Convert Vulcan list exports into Artisan list imports.",
+  "AcceptsFeedback": true
+}
