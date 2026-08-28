@@ -56,5 +56,31 @@
     "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/BGMCommands/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/BGMCommands/latest.zip",
     "ChangeLog": ""
+  },
+  {
+    "Author": "c9o",
+    "Name": "VulcanToArtisan",
+    "InternalName": "VulcanToArtisan",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Test clipboard bridge for converting GatherBuddy Reborn Vulcan crafting-list exports into Artisan-compatible crafting-list JSON.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "crafting",
+      "Vulcan",
+      "Artisan",
+      "clipboard"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Convert Vulcan list exports into Artisan list imports.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/VulcanToArtisan/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/VulcanToArtisan/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/VulcanToArtisan/latest.zip",
+    "ChangeLog": ""
   }
 ]
