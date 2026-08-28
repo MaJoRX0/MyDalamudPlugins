@@ -3,7 +3,7 @@
     "Author": "Twinki Toes",
     "Name": "Plugin List",
     "InternalName": "PluginList",
-    "AssemblyVersion": "1.0.5.0",
+    "AssemblyVersion": "1.0.8.0",
     "Description": "",
     "ApplicableVersion": "any",
     "Tags": [
@@ -26,7 +26,7 @@
     "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
     "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/PluginList/latest.zip",
-    "ChangeLog": "Updated for Dalamud API 15."
+    "ChangeLog": "Overhaul to the organization tab"
   },
   {
     "Author": "Twinki Toes",
