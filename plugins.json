@@ -61,7 +61,7 @@
     "Author": "TwinkiToes",
     "Name": "VulcanToArtisan",
     "InternalName": "VulcanToArtisan",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Description": "Test clipboard bridge for converting GatherBuddy Reborn Vulcan crafting-list exports into Artisan-compatible crafting-list JSON.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -87,7 +87,7 @@
     "Author": "TwinkiToes",
     "Name": "Chat Colors",
     "InternalName": "ChatColors",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Description": "Adds local-only color tags for ChatTwo messages using FFXIV UIColor rows <0> to <77> and <500> to <521>, plus <reset>.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -106,6 +106,6 @@
     "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/ChatColors/latest.zip",
     "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/ChatColors/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/ChatColors/latest.zip",
-    "ChangeLog": ""
+    "ChangeLog": "0.1.1.0: Reduced framework work by scanning only after tagged Echo messages, checks only the newest visible ChatTwo messages, and logs the version on load."
   }
 ]
