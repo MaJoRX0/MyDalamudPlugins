@@ -2,7 +2,7 @@
   "Author": "TwinkiToes",
   "Name": "Chat Colors",
   "InternalName": "ChatColors",
-  "AssemblyVersion": "0.1.0.0",
+  "AssemblyVersion": "0.1.1.0",
   "Description": "Adds local-only color tags for ChatTwo messages using FFXIV UIColor rows <0> to <77> and <500> to <521>, plus <reset>.",
   "ApplicableVersion": "any",
   "RepoUrl": "",
@@ -17,5 +17,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Local display colors for ChatTwo messages.",
+  "Changelog": "0.1.1.0: Reduced framework work by scanning only after tagged Echo messages, checks only the newest visible ChatTwo messages, and logs the version on load.",
   "AcceptsFeedback": true
 }
