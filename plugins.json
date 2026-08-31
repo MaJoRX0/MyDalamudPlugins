@@ -107,5 +107,33 @@
     "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/ChatColors/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/ChatColors/latest.zip",
     "ChangeLog": "0.1.1.0: Reduced framework work by scanning only after tagged Echo messages, checks only the newest visible ChatTwo messages, and logs the version on load."
+  },
+  {
+    "Author": "MTVirux, Twinki",
+    "Name": "TwinkiMarket",
+    "InternalName": "TwinkiMarket",
+    "AssemblyVersion": "1.69.420.1345",
+    "Description": "Custom Market Terror fork with Teamcraft list imports.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "market",
+      "board",
+      "marketboard",
+      "market board",
+      "Teamcraft",
+      "Twinki"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Custom market board plugin with Teamcraft list imports.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/TwinkiMarket/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/TwinkiMarket/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/TwinkiMarket/latest.zip",
+    "ChangeLog": ""
   }
 ]
