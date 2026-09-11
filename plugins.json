@@ -61,7 +61,7 @@
     "Author": "TwinkiToes",
     "Name": "VulcanToArtisan",
     "InternalName": "VulcanToArtisan",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.2.0",
     "Description": "Test clipboard bridge for converting GatherBuddy Reborn Vulcan crafting-list exports into Artisan-compatible crafting-list JSON.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -112,7 +112,7 @@
     "Author": "MTVirux, Twinki",
     "Name": "TwinkiMarket",
     "InternalName": "TwinkiMarket",
-    "AssemblyVersion": "1.69.420.1345",
+    "AssemblyVersion": "1.69.420.1348",
     "Description": "Custom Market Terror fork with Teamcraft list imports.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -134,6 +134,31 @@
     "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/TwinkiMarket/latest.zip",
     "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/TwinkiMarket/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/TwinkiMarket/latest.zip",
+    "ChangeLog": ""
+  },
+  {
+    "Author": "TwinkiToes",
+    "Name": "SearchInfoMenu",
+    "InternalName": "SearchInfoMenu",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Adds the game's native View Search Info action to right-click menus for visible players, so you can open their Search Info directly without using Player Search first.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "search-info",
+      "context-menu",
+      "social"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Adds View Search Info to player right-click menus.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SearchInfoMenu/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SearchInfoMenu/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SearchInfoMenu/latest.zip",
     "ChangeLog": ""
   }
 ]
