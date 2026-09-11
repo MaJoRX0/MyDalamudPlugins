@@ -1,0 +1,20 @@
+{
+  "Author": "TwinkiToes",
+  "Name": "SearchInfoMenu",
+  "InternalName": "SearchInfoMenu",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Adds the game's native View Search Info action to right-click menus for visible players, so you can open their Search Info directly without using Player Search first.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "search-info",
+    "context-menu",
+    "social"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Adds View Search Info to player right-click menus.",
+  "AcceptsFeedback": true
+}
