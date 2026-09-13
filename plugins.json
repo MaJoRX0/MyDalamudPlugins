@@ -160,5 +160,31 @@
     "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SearchInfoMenu/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SearchInfoMenu/latest.zip",
     "ChangeLog": ""
+  },
+  {
+    "Author": "Twinki Toes",
+    "Name": "Saucy GATE Loop",
+    "InternalName": "SaucyGateLoop",
+    "AssemblyVersion": "0.1.10.0",
+    "Description": "Uses the Gold Saucer GATE director, GATE Keeper dialogue, system announcements, exact NPC IDs, and validated confirmation prompts. Includes a live debug/state window. Command: /sgl",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "gold saucer",
+      "gate",
+      "saucy",
+      "automation"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Reliably registers for selected Gold Saucer GATEs and hands gameplay to Saucy.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SaucyGateLoop/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SaucyGateLoop/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SaucyGateLoop/latest.zip",
+    "ChangeLog": ""
   }
 ]
