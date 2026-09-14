@@ -165,7 +165,7 @@
     "Author": "Twinki Toes",
     "Name": "Saucy GATE Loop",
     "InternalName": "SaucyGateLoop",
-    "AssemblyVersion": "0.1.13.0",
+    "AssemblyVersion": "0.1.14.0",
     "Description": "Registers for selected Gold Saucer GATEs, starts supported events, and returns to the Keeper afterward. Command: /sgl",
     "ApplicableVersion": "any",
     "Tags": [
