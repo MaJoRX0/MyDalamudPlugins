@@ -1,0 +1,20 @@
+{
+  "Author": "TwinkiToes",
+  "Name": "Keybound Helper",
+  "InternalName": "KeyboundHelper",
+  "AssemblyVersion": "0.1.14.0",
+  "Description": "Human-like typing for Keybound Brawler. Open with /keybound.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "gold-saucer",
+    "typing",
+    "keybound"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Human-like typing for Keybound Brawler.",
+  "AcceptsFeedback": true
+}
