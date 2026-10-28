@@ -186,5 +186,30 @@
     "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SaucyGateLoop/latest.zip",
     "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/SaucyGateLoop/latest.zip",
     "ChangeLog": ""
+  },
+  {
+    "Author": "TwinkiToes",
+    "Name": "Keybound Helper",
+    "InternalName": "KeyboundHelper",
+    "AssemblyVersion": "0.1.14.0",
+    "Description": "Human-like typing for Keybound Brawler. Open with /keybound.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "gold-saucer",
+      "typing",
+      "keybound"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Human-like typing for Keybound Brawler.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/KeyboundHelper/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/KeyboundHelper/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MaJoRX0/MyDalamudPlugins/raw/main/plugins/KeyboundHelper/latest.zip",
+    "ChangeLog": ""
   }
 ]
