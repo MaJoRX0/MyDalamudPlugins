@@ -191,7 +191,7 @@
     "Author": "TwinkiToes",
     "Name": "Keybound Helper",
     "InternalName": "KeyboundHelper",
-    "AssemblyVersion": "0.1.17.0",
+    "AssemblyVersion": "0.2.3.0",
     "Description": "Human-like typing for Keybound Brawler. Open with /keybound.",
     "ApplicableVersion": "any",
     "Tags": [
